@@ -1,0 +1,16 @@
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\TokenClient.exe.config
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\TokenClient.exe
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\TokenClient.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\Thinktecture.IdentityModel.Client.Net45.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\bin\Debug\Thinktecture.IdentityModel.Client.Net45.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\obj\Debug\TokenClient.csprojResolveAssemblyReference.cache
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\obj\Debug\TokenClient.Form1.resources
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\obj\Debug\TokenClient.Properties.Resources.resources
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\obj\Debug\TokenClient.csproj.GenerateResource.Cache
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\obj\Debug\TokenClient.exe
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\basta-spring-2016\web-apis\TokenClient\TokenClient\obj\Debug\TokenClient.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\DNC\WebAPI\TokenClient\TokenClient\bin\Debug\TokenClient.exe.config
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\DNC\WebAPI\TokenClient\TokenClient\obj\Debug\TokenClient.exe
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2016\DNC\WebAPI\TokenClient\TokenClient\obj\Debug\TokenClient.pdb
